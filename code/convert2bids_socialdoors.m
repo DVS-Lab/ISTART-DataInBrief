@@ -5,7 +5,7 @@ clear; close all;
 usedir = pathstr;
 [pathstr2,name,ext] = fileparts(usedir);
 
-maindir = [pathstr2 '/istart-datapaper-test05/bids/sourcedata/'];
+maindir = [pathstr2 '/ISTART-DataInBrief/bids/sourcedata/'];
 cd ../bids/
 outputdir = pwd;
 cd ../code/

@@ -14,7 +14,7 @@ cd ..
 % this assumes you have the istart-sharedreward directory in the same
 % directory as istart-data
 projectdir = pwd;
-sharedrewarddir = fullfile(projectdir,'istart-datapaper-test05','code');
+sharedrewarddir = fullfile(projectdir,'ISTART-DataInBrief','code');
 sublist = load(fullfile(sharedrewarddir,'sublist-all.txt'));
 
 
