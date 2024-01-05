@@ -1,0 +1,113 @@
+{
+  "AUDITMetadata": {
+    "Description": "Alcohol Use Disorder Identification Test",
+    "TermURL": "https://doi.org/10.1111/acer.12593"
+  },
+  "audit_1": {
+    "Description": "How often do you have a drink containing alcohol?",
+    "Levels": {
+      "0": "Never",
+      "1": "Monthly or less",
+      "2": "2-4 times a month",
+      "3": "2-3 times a week",
+      "4": "4 or more times a week",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_2": {
+    "Description": "How many drinks containing alcohol do you have on a typical day when you are drinking?",
+    "Levels": {
+      "0": "1 or 2",
+      "1": "3 or 4",
+      "2": "5 or 6",
+      "3": "7 to 9",
+      "4": "10 or more",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_3": {
+    "Description": "How often do you have six or more drinks on one occassion?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_4": {
+    "Description": "How often during the last year have you found that you were not able to stop drinking once you had started?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_5": {
+    "Description": "How often during the last year have you failed to do what was normally expected of you because of drinking?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_6": {
+    "Description": "How often during the last year have you needed a first drink in the morning to get yourself going after a heavy drinking session?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_7": {
+    "Description": "How often during the last year have you had a feeling of guilt or remorse after drinking?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_8": {
+    "Description": "How often during the last year have you been unable to remember what happened the night before because of your drinking?",
+    "Levels": {
+      "0": "Never",
+      "1": "Less than monthly",
+      "2": "Monthly",
+      "3": "Weekly",
+      "4": "Daily or almost daily",
+      "n/a": "Prefer not to respond"
+    }
+  },
+  "audit_9": {
+    "Description": "Have you or someone else been injured because of your drinking?",
+    "Levels": {
+      "0": "No",
+      "2": "Yes, but not in the last year",
+      "4": "Yes, during the last year",
+      "n/a": "prefer not to respond"
+    }
+  },
+  "audit_10": {
+    "Description": "Has a relative, friend, doctor, or other health care worker been concerned about your drinking or suggested you cut down?",
+    "Levels": {
+      "0": "Never Used",
+      "0": "No",
+      "2": "Yes, but not in the last year",
+      "4": "Yes, during the last year",
+      "n/a": "prefer not to respond"
+    }
+  }
+}

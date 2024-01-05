@@ -1,0 +1,162 @@
+{
+  "AADISMetadata": {
+    "Description": "Adolescent Alcohol and Drug Involvement Scale (AADIS)",
+    "TermURL": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=07060890ba2cea5be6c77f4f5094d9333c04a0c7"
+  },
+  "aadis_q1": {
+    "Description": "Smoking tobacco (cigarettes, cigars), chewing tobacco, nicotine gum or nicotine patch",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q2": {
+    "Description": "Alcohol (beer, wine, liquor)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q3": {
+    "Description": "Marijuana or Hashish (pot, weed, grass, blunts, wet)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q4": {
+    "Description": "LSD, mushrooms, peyote, mescaline, or other hallucinogens (acid, shrooms, Special K)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q5": {
+    "Description": "Amphetamines (speed, ecstasy, uppers, crystal meth, Ice, Tina), or ritalin, concerta, or adderall without a prescription",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q6": {
+    "Description": "Powder Cocaine (Coke, Blow)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q7": {
+    "Description": "Crack Cocaine (Crack, Rock Freebase",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q8": {
+    "Description": "Barbiturates (quaaludes, downers, ludes, blues, goofballs)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q9": {
+    "Description": "PCP (Angel Dust)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q10": {
+    "Description": "Heroin or other opiates (opium, morphine, oxycontin, codeine, smack, horse, cheese)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q11": {
+    "Description": "Inhalants (glue, gasoline, spray cans, paint, nitrous oxide, whippits, ether, chloroform, whiteout, rush, etc.)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q12": {
+    "Description": "Valium, xanax (xanies), ativan, benzos, GHB (roofies) or other tranquilizers without a prescription",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  },
+  "aaids_q13": {
+    "Description": "Other drug(s)",
+    "Levels": {
+      "0": "Never Used",
+      "1": "Tried Once or Twice",
+      "2": "Several Times a Month",
+      "3": "Weekends Only",
+      "4": "Several Times a Week",
+      "5": "Daily",
+      "6": "Several Times a Day"
+    }
+  }
+}

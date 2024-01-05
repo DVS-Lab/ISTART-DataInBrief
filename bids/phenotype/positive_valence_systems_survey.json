@@ -1,0 +1,300 @@
+{
+  "PVSSMetadata": {
+    "Description": "Positive Valence Systems Survey (PVSS)",
+    "TermURL": "https://doi.org/10.1177/1073191119869836"
+  },
+  "pvss_q1": {
+    "Description": "I savored my first bite of food after feeling hungry.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q2": {
+    "Description": "I put energy into activities I enjoy.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q3": {
+    "Description": "I was delighted to catch a breath of fresh air outdoors.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q4": {
+    "Description": "I wanted to spend time with people I know.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q5": {
+    "Description": "A fun activity during the weekend sustained my good mood throughout the new week.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q6": {
+    "Description": "It felt good to have physical with someone I felt close to.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q7": {
+    "Description": "I expected to enjoy a brief moment outdoors.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q8": {
+    "Description": "I looked forward to hearing feedback on my work.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q9": {
+    "Description": "I expected to enjoy my meals.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q10": {
+    "Description": "Receiving praise about my work made me feel pleased for the rest of the day.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q11": {
+    "Description": "I looked forward to spending time with others.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q12": {
+    "Description": "I wanted to accomplish goals I set for myself.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q13": {
+    "Description": "I expected to enjoy being hugged by someone I love.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q14": {
+    "Description": "I wanted to participate in a fun activity with friends.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q15": {
+    "Description": "I worked hard to earn positive feedback on my projects.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q16": {
+    "Description": "I looked forward to an upcoming meal.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q17": {
+    "Description": "I felt pleased when I reached a goal I set for myself.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q18": {
+    "Description": "Getting a hug from someone close to me made me happy even after we parted.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q19": {
+    "Description": "I expected to master the tasks I undertook.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q20": {
+    "Description": "I actively pursued activities I thought would be fun.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  },
+  "pvss_q21": {
+    "Description": "I went out of my way to admire the beauty around me.",
+    "Levels": {
+      "1": "Extremely untrue of me",
+      "2": "Very untrue of me",
+      "3": "Moderately true of me",
+      "4": "Slightly untrue of me",
+      "5": "Neutral",
+      "6": "Slightly true of me",
+      "7": "Moderately true of me",
+      "8": "Very true of me",
+      "9": "Extremely true of me"
+    }
+  }
+}

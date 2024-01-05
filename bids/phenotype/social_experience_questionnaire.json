@@ -1,0 +1,156 @@
+{
+  "SEQMetadata": {
+    "Description": "Social Experience Questionnaire (SEQ)",
+    "TermURL": "https://doi.org/10.1037/t10619-000"
+  },
+  "seq_adult_cj_1": {
+    "Description": "How often does someone give you help when you need it?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_2": {
+    "Description": "How often do you get hit by another person?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_3": {
+    "Description": "How often do others leave you out on purpose when it is time to make plans or work in a group?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_4": {
+    "Description": "How often does someone yell at you and call you names?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_5": {
+    "Description": "How often does someone try to cheer you up when you feel sad or upset?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_6": {
+    "Description": "How often does someone who is mad at you try to get back at you by excluding you from their group?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_7": {
+    "Description": "How often do you get pushed or shoved by another person?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_8": {
+    "Description": "How often does someone do something that makes you feel happy?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_9": {
+    "Description": "How often does someone tell lies about you to make others not like you anymore?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_10": {
+    "Description": "How often does someone kick you or pull your hair?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_11": {
+    "Description": "How often does someone say they won't like you unless you do what they want you to do?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_12": {
+    "Description": "How often does another person say something nice to you?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_13": {
+    "Description": "How often does someone try to keep others from liking you by saying mean things about you?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_14": {
+    "Description": "How often does another person say they will beat you up if you don't do what they want you to do?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  },
+  "seq_adult_cj_15": {
+    "Description": "How often do others let you know that they care about you?",
+    "Levels": {
+      "1": "Never",
+      "2": "Almost Never",
+      "3": "Sometimes",
+      "4": "Almost All the Time",
+      "5": "All the Time"
+    }
+  }
+}

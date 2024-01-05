@@ -1,0 +1,109 @@
+{
+  "screen_bmi": {
+    "Description": "Body mass index of the participant as reported by the participant",
+    "Units": "BMI"
+  },
+  "screen_handedness_final": {
+    "Description": "Handedness of the participant as reported by the participant",
+    "Levels": {
+      "left": "Left",
+      "right": "Right"
+    }
+  },
+  "screen_race": {
+    "Description": "Race of the participant as reported by the participant",
+    "Levels": {
+      "White": "White",
+      "Black/African American": "Black/African American",
+      "Asian": "Asian",
+      "Two or more races": "Two or more races"
+    }
+  },
+  "appt1_drugtest": {
+    "Description": "Drug test results for participants' first appointment",
+    "Levels": {
+      "positive": "positive drug test results",
+      "negative": "negative drug test results"
+    }
+  },
+  "appt1_breathalyzer": {
+    "Description": "Breathalyzer results for participants' first appointment",
+    "Units": "BAC"
+  },
+  "Age": {
+    "Description": "Age of the participant as reported by the participant",
+    "Units": "years"
+  },
+  "Gender": {
+    "Description": "Gender of the participant as reported by the participant",
+    "Levels": {
+      "M": "Man",
+      "F": "Woman"
+    }
+  },
+  "Deception": {
+    "Description": "Experimenter deception rating of the participant",
+    "Levels": {
+      "0": "0 (not at all)",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 (completely sure)"
+    }
+  },
+  "screen_meds_pastmonth": {
+    "Description": "Have you taken any medication in the past month?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_stabilizer": {
+    "Description": "Mood Stabilizers",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_ssri": {
+    "Description": "SSRI",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_epilepsy": {
+    "Description": "Epilepsy",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_psychosis": {
+    "Description": "Psychosis",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_antianxiety": {
+    "Description": "Anti anxiety",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "screen_meds_pain": {
+    "Description": "Pain",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "BISBASMetadata": {
+    "description": "Behavioral Inhibition Scale Behavioral Approach Scale",
+    "TermURL": "https://psycnet.apa.org/doi/10.1037/1040-3590.16.3.244"
+  },
+  "bisbas_1": {
+    "description": "If I think something unpleasent is going to happen I get pretty 'worked up'.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_2": {
+    "description": "I worry about making mistakes.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_3": {
+    "description": "Criticism or scolding hurts me quite a bit.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_4": {
+    "description": "I feel pretty worried or upset when I think or know somebody is angry at me.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_5": {
+    "description": "Even if something bad is about to happen to me, I rarely experience fear or nervousness.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_6": {
+    "description": "I feel worried when I think I have done something poorly.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_7": {
+    "description": "I have very few fears compared to my friends.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_8": {
+    "description": "When I get something I want, I feel excited and energized.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_9": {
+    "description": "When I'm doing well at something, I love to keep at it.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_10": {
+    "description": "When good things happen to me it affects me strongly.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_11": {
+    "description": "It would excite me to win a contest.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_12": {
+    "description": "When I see an opportunity for something I like, I get excited right away.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_13": {
+    "description": "When I want something I usually go all out to get it.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_14": {
+    "description": "I go out of my way to get things I want.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_15": {
+    "description": "If I see a chance to get something I want, I move on it right away.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_16": {
+    "description": "When I go after something I use a 'no holds barred' approach'.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_17": {
+    "description": "I will often do things for no other reason than that they might be fun.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_18": {
+    "description": "I crave excitement and new sensations.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_19": {
+    "description": "I am always willing to try something new if I think it will be fun.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  },
+  "bisbas_20": {
+    "description": "I often act on the spur of the moment.",
+    "Levels": {
+      "1": "1-Strongly disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4-Strongly agree"
+    }
+  }
+}

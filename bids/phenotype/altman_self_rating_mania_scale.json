@@ -1,0 +1,56 @@
+{
+  "ASRMSMetadata": {
+    "Description": "Altman Self-Rating Mania Scale",
+    "TermURL": "https://doi.org/10.1016/S0006-3223(96)00548-3"
+  },
+  "asrm_q1": {
+    "Description": "Directions: Please read each group of statements carefully. Then pick out the one statement in each group which best describes the way you were feeling DURING THE PAST 30 DAYS by selecting the bubble next to that statement. If several statements in the group seem to apply equally well, select the  statement that applies to your feelings for the MAJORITY of the past 30 days. BE SURE TO READ ALL THE STATEMENTS IN EACH GROUP BEFORE MAKING YOUR CHOICE, and please do not skip any items.",
+    "Levels": {
+      "0": "I do not feel happier or more cheerful than usual.",
+      "1": "I occasionally feel happier or more cheerful than usual.",
+      "2": "I often feel happier or more cheerful than usual.",
+      "3": "I feel happier or more cheerful than usual most of the time.",
+      "4": "I feel happier or more cheerful than usual all of the time."
+    }
+  },
+  "asrm_q2": {
+    "Description": "Directions: Please read each group of statements carefully. Then pick out the one statement in each group which best describes the way you were feeling DURING THE PAST 30 DAYS by selecting the bubble next to that statement. If several statements in the group seem to apply equally well, select the  statement that applies to your feelings for the MAJORITY of the past 30 days. BE SURE TO READ ALL THE STATEMENTS IN EACH GROUP BEFORE MAKING YOUR CHOICE, and please do not skip any items.",
+    "Levels": {
+      "0": "I do not feel more self confident than usual.",
+      "1": "I occasionally feel more self confident than usual.",
+      "2": "I often feel more self confident than usual.",
+      "3": "I feel more self confident than usual most of the time.",
+      "4": "I feel more self confident than usual all of the time."
+    }
+  },
+  "asrm_q3": {
+    "Description": "Directions: Please read each group of statements carefully. Then pick out the one statement in each group which best describes the way you were feeling DURING THE PAST 30 DAYS by selecting the bubble next to that statement. If several statements in the group seem to apply equally well, select the  statement that applies to your feelings for the MAJORITY of the past 30 days. BE SURE TO READ ALL THE STATEMENTS IN EACH GROUP BEFORE MAKING YOUR CHOICE, and please do not skip any items.",
+    "Levels": {
+      "0": "I do not need sleep less than usual.",
+      "1": "I occasionally need less sleep than usual.",
+      "2": "I often need less sleep than usual.",
+      "3": "I frequently need less sleep than usual.",
+      "4": "I can go all day and all night without sleep and still not feel tired."
+    }
+  },
+  "asrm_q4": {
+    "Description": "Directions: Please read each group of statements carefully. Then pick out the one statement in each group which best describes the way you were feeling DURING THE PAST 30 DAYS by selecting the bubble next to that statement. If several statements in the group seem to apply equally well, select the  statement that applies to your feelings for the MAJORITY of the past 30 days. BE SURE TO READ ALL THE STATEMENTS IN EACH GROUP BEFORE MAKING YOUR CHOICE, and please do not skip any items.",
+    "Levels": {
+      "0": "I do not talk more than usual.",
+      "1": "I occasionally talk more than usual.",
+      "2": "I often talk more than usual.",
+      "3": "I frequently talk more than usual.",
+      "4": "I talk contantly and cannot be interrupted."
+    }
+  },
+  "asrm_q5": {
+    "Description": "Directions: Please read each group of statements carefully. Then pick out the one statement in each group which best describes the way you were feeling DURING THE PAST 30 DAYS by selecting the bubble next to that statement. If several statements in the group seem to apply equally well, select the  statement that applies to your feelings for the MAJORITY of the past 30 days. BE SURE TO READ ALL THE STATEMENTS IN EACH GROUP BEFORE MAKING YOUR CHOICE, and please do not skip any items.",
+    "Levels": {
+      "0": "I have not been more active (either socially, sexually, at work, home, or school) than usual.",
+      "1": "I have occasionally been more active than usual.",
+      "2": "I have often been more active than usual.",
+      "3": "I have frequently been more active than usual.",
+      "4": "I am constantly active or on the go all the time."
+    }
+  }
+}

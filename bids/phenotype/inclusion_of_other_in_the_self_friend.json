@@ -1,0 +1,18 @@
+{
+  "IOS_friendMetadata": {
+    "Description": "Inclusion of Other in the Self -- Friend",
+    "TermURL": "https://doi.org/10.1037/0022-3514.63.4.596"
+  },
+  "ios_p": {
+    "Description": "Which circle best describes your relationship with the stranger?",
+    "Levels": {
+      "1": "1 (No Overlap)",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7 (Most Overlap)"
+    }
+  }
+}

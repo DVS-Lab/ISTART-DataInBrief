@@ -1,0 +1,456 @@
+{
+  "AQMetadata": {
+    "Description": "Autism Quotient (AQ)",
+    "TermURL": "https://doi.org/10.1023/A:1005653411471"
+  },
+  "aq_1": {
+    "Description": "I prefer to do things with others rather than on my own.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_2": {
+    "Description": "I prefer to do things the same way over and over again.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_3": {
+    "Description": "If I try to imagine something, I find it very easy to create a picture in my mind.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_4": {
+    "Description": "I frequently get so strongly absorbed in one thing that I lose sight of other things.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_5": {
+    "Description": "I often notice small sounds when others do not.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_6": {
+    "Description": "I usally notice car number plates or similar string of information.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_7": {
+    "Description": "Other people frequently tell me what I've said is impolite, even though I think it is polite.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_8": {
+    "Description": "When I'm reading a story, I can easily imagine what the characters might look like.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_9": {
+    "Description": "I am fascinated by dates.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_10": {
+    "Description": "In a social group, I can easily keep track of several different people's conversations.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_11": {
+    "Description": "I find social situations easy.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_12": {
+    "Description": "I tend to notice details that others do not.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_13": {
+    "Description": "I would rather go to a library than to a party.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_14": {
+    "Description": "I find making up stories easy.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_15": {
+    "Description": "I find myself drawn more strongly to people than to things.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_16": {
+    "Description": "I tend to have very strong interests, which I get upset about if I can't pursue.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_17": {
+    "Description": "I enjoy social chitchat.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_18": {
+    "Description": "When I talk, it isn't always easy for others to get a word in edgewise.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_19": {
+    "Description": "I am fascinated by numbers.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_20": {
+    "Description": "When I'm reading a story, I find it difficult to work out the characters' intentions.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_21": {
+    "Description": "I don't particularly enjoy reading fiction.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_22": {
+    "Description": "I find it hard to make new friends.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_23": {
+    "Description": "I notice patterns in things all the time.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_24": {
+    "Description": "I would rather go to the theater than to a museum.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_25": {
+    "Description": "It does not upset me if my daily routine is disturbed.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_26": {
+    "Description": "I frequently find that I don't know how to keep a conversation going.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_27": {
+    "Description": "I find it easy to 'read between the lines' when someone is talking to me.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_28": {
+    "Description": "I usually concentrate more on the whole picture, rather than on the small details.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_29": {
+    "Description": "I am not very good at remembering phone numbers.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_30": {
+    "Description": "I don't usually notice small changes in a situation or a person's appearance.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_31": {
+    "Description": "I know how to tell if someone listening to me is getting bored.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_32": {
+    "Description": "I find it easy to do more than one thing at once.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_33": {
+    "Description": "When I talk on the phone, I'm not sure when it's my turn to speak.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_34": {
+    "Description": "I enjoy doing things spontaneously.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_35": {
+    "Description": "I enjoy doing things alone.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_36": {
+    "Description": "I find it easy to work out what someone is thinking or feeling just by looking at their face.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_37": {
+    "Description": "If there is an interruption, I can switch back to what I was doing very quickly.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_38": {
+    "Description": "I am good at social chitchat.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_39": {
+    "Description": "People often tell me that I am going on and on about the same thing.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_40": {
+    "Description": "When I was young, I used to enjoy games involving pretending with other children.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_41": {
+    "Description": "I like to collect information about categories of things (e.g., types of cars, birds, trains, plants).",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_42": {
+    "Description": "I find it difficult to imagine what it would be like to be someone else.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_43": {
+    "Description": "I like to carefully plan any activities I participate in.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_44": {
+    "Description": "I enjoy social occasions.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_45": {
+    "Description": "I find it difficult to work out people's intentions.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_46": {
+    "Description": "New situations make me anxious.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_47": {
+    "Description": "I enjoy meeting new people.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_48": {
+    "Description": "I am a good diplomat.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_49": {
+    "Description": "I am not very good at remembering people's date of birth.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  },
+  "aq_50": {
+    "Description": "I find it very easy to play games with children that involve pretending.",
+    "Levels": {
+      "0": "Definitely agree",
+      "1": "Slightly agree",
+      "3": "Slightly disagree",
+      "4": "Definitely disagree"
+    }
+  }
+}

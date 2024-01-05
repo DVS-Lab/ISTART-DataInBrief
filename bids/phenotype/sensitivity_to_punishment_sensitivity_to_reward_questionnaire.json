@@ -1,0 +1,342 @@
+{
+  "SPSRQMetadata": {
+    "Description": "Sensitivity to Punishment and Sensitivity to Reward Questionnaire",
+    "TermURL": "https://doi.org/10.1016/S0191-8869(00)00183-5"
+  },
+  "spsrq_1": {
+    "Description": "Do you often refrain from doing something because you are afraid of it being illegal?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_2": {
+    "Description": "Does the good prospect of obtaining money motivate you strongly to do some things?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_3": {
+    "Description": "Do you prefer not to ask for something if you are not sure you will obtain it?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_4": {
+    "Description": "Are you frequently encouraged to act by the possibilty of being valued in your work, in your studies, with your friends or with your family?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_5": {
+    "Description": "Are you often afraid of new or unexpected situations?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_6": {
+    "Description": "Do you often meet people that you find physically attractive?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_7": {
+    "Description": "Is it difficult for you to telephoen someone you don't know?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_8": {
+    "Description": "Do you like taking some drugs because of the pleasure you get from them?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_9": {
+    "Description": "Do you often renounce your rights when you know you can avoid a quarrel with a person or an organization?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_10": {
+    "Description": "Do you often do things to be praised?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_11": {
+    "Description": "As a child, were you troubled by punishments at home or in school?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_12": {
+    "Description": "Do you like being the center of attention at a party or a social meeting?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_13": {
+    "Description": "In tasks that you are not prepared for, do you attach great importance to the possibilty of failure?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_14": {
+    "Description": "Do you spend a lot of your time on obtaining a good image?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_15": {
+    "Description": "Are you easily discouraged in difficult situations?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_16": {
+    "Description": "Do you need people to show their affection for you all the time?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_17": {
+    "Description": "Are you a shy person?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_18": {
+    "Description": "When you are with a group, do you try to make your opinions the most intelligent or the funniest?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_19": {
+    "Description": "Whenever possible, do you avoid demonstrating your skills for fear of being embarrassed?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_20": {
+    "Description": "Do you often take the opportunity to pick up people you find attractive?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_21": {
+    "Description": "When you are with a group, do you have difficulties selecting a good topic to talk about?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_22": {
+    "Description": "As a child, did you do a lot of things to get people's approval?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_23": {
+    "Description": "Is it often difficult for you to fall asleep when you think about things you have done or must do?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_24": {
+    "Description": "Does the possibility of social advancement, move you to action, even if this involves not playing fair?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_25": {
+    "Description": "Do you think a lot before complaining?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_26": {
+    "Description": "Do you generally give preference to those activities that imply an immediate gain?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_27": {
+    "Description": "Would you be bothered if you had to return to a store when you noticed you were given the wrong change?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_28": {
+    "Description": "Do you often have trouble resisting the temptation of doing forbidden things?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_29": {
+    "Description": "Whenever you can, do you avoid going to unknown places?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_30": {
+    "Description": "Do you like to compete and do everything you can to win?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_31": {
+    "Description": "Are you often worried by things you said or did?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_32": {
+    "Description": "Is it easy for you to associate tastes and smells to very pleasant events?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_33": {
+    "Description": "Would it be difficult for you to ask your boss for a raise (salary increase)?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_34": {
+    "Description": "Are there a large number of objects or sensations that remind you of pleasant events?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_35": {
+    "Description": "Do you generally avoid speaking in public?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_36": {
+    "Description": "When you start to play with a slot machine, is it often difficult for you to stop?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_37": {
+    "Description": "Do you, on a regular basis, think that you could do more things if it was not for your insecurity or fear?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_38": {
+    "Description": "Do you sometimes do things for quick gains?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_39": {
+    "Description": "Comparing yourself to people you know, are you afraid of many things?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_40": {
+    "Description": "Does your attention easily stray from your work in the presence of an attractive stranger?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_41": {
+    "Description": "Do you often find yourself worrying about things to the extent that performance of intellectual abilities is impaired?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_42": {
+    "Description": "Are you interested in money to the point of being able to do risky jobs?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_43": {
+    "Description": "Do you often refrain from doing something you like in order not to be rejected or disapproved by others?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_44": {
+    "Description": "Do you like to put competitive ingredients in all of your activities?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_45": {
+    "Description": "Generally, do you pay more attention to threats than to pleasant events?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_46": {
+    "Description": "Would you like to be a socially powerful person?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_47": {
+    "Description": "Do you often refrain from doing something because of your fear of being embarrassed?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "spsrq_48": {
+    "Description": "Do you like displaying your physical abilities even though this may involve danger?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "CTQSFMetadata": {
+    "Description": "Childhood Trauma Questoinnaire Short Form (CTQ-SF)",
+    "TermURL": "https://doi.org/10.1016/j.chiabu.2021.105223"
+  },
+  "ctqsf_adult_cj_1": {
+    "Description": "I didn't have enough to eat.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_2": {
+    "Description": "I knew that there was someone to take care of me and protect me.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_3": {
+    "Description": "People in my family called me things like 'stupid', 'lazy', or 'ugly'.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_4": {
+    "Description": "My parents were too drunk or high to take care of the family.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_5": {
+    "Description": "There was someone in my family who helped me feel important or special.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_6": {
+    "Description": "I had to wear dirty clothes.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_7": {
+    "Description": "I felt loved.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_8": {
+    "Description": "I thought that my parents wished I had never been born.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_9": {
+    "Description": "I got hit so hard by someone in my family that I had to see a doctor or go to the hospital.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_10": {
+    "Description": "There was nothing I wanted to change about my family.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_11": {
+    "Description": "People in my family hit me so hard it left me with bruises or marks.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_12": {
+    "Description": "I was punished with a belt, a board, a cord (or some other hard object).",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_13": {
+    "Description": "People in my family looked out for each other.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_14": {
+    "Description": "People in my family said hurtful or insulting things to me",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_15": {
+    "Description": "I believe that I was physically abused.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_16": {
+    "Description": "I had the perfect childhood.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_17": {
+    "Description": "I got hit or beaten so badly that it was noticed by someone like a teacher, neighbor, or doctor.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_18": {
+    "Description": "I felt that someone in my family hated me.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_19": {
+    "Description": "People in my family felt close to each other.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_20": {
+    "Description": "Someone tried to touch me in a sexual way or tried to make me touch them.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_21": {
+    "Description": "Someone threatened to hurt me or tell lies about me unless I did something sexual with them.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_22": {
+    "Description": "I had the best family in the world.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_23": {
+    "Description": "Someone tried to make me do sexual things or watch sexual things.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_24": {
+    "Description": "Someone molested me (took advantage of me sexually).",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_25": {
+    "Description": "I believe that I was emotionally abused.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_26": {
+    "Description": "There was someone to take me to the doctor if I needed it.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_27": {
+    "Description": "I believe that I was sexually abused.",
+    "Levels": {
+      "1": "Never true",
+      "2": "Rarely true",
+      "3": "Sometimes true",
+      "4": "Often true",
+      "5": "Very Often true"
+    }
+  },
+  "ctqsf_adult_cj_28": {
+    "Description": "My family was a source of strength and support.",
+    "Levels": {
+      "5": "Never true",
+      "4": "Rarely true",
+      "3": "Sometimes true",
+      "2": "Often true",
+      "1": "Very Often true"
+    }
+  }
+}

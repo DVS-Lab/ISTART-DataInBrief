@@ -1,0 +1,96 @@
+{
+  "PNRMetadata": {
+    "Description": "Personal Norms of Reciprocity (PNR)",
+    "TermURL": "https://doi.org/10.1037/bul0000217"
+  },
+  "pnr_q1": {
+    "Description": "If I suffer a serious wrong, I will take my revenge as soon as possible, no matter what the costs.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q2": {
+    "Description": "I am willing to invest time and effort to reciprocate an unfair action.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q3": {
+    "Description": "I am kind and nice if others behave well with me, otherwise it's tit-for-tat.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q4": {
+    "Description": "If somebody puts me in a difficult situation, I will do the same to him/her.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q5": {
+    "Description": "If somebody offends me, I will offend him/her back.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q6": {
+    "Description": "If someone is unfair to me, I prefer to give him/her what s/he deserves instead of accpeting his/her apologies.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q7": {
+    "Description": "I would not do a favor for somebody who behaved badly with me, even if it meant foregoing some personal gains.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q8": {
+    "Description": "If somebody is impolite to me, I become impolite.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  },
+  "pnr_q9": {
+    "Description": "The way I treat others depends much on how they treat me.",
+    "Levels": {
+      "1": "1-Not true of me",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5-Very true of me"
+    }
+  }
+}

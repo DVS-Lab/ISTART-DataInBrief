@@ -1,0 +1,296 @@
+{
+  "BPAQMetadata": {
+    "Description": "Buss-Perry Aggression Questionnaire",
+    "TermURL": "https://doi.org/10.1037/0022-3514.63.3.452"
+  },
+  "bpaq_q1": {
+    "Description": "Once in a while I can't control the urge to strike another person.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q2": {
+    "Description": "Given enough provocation, I may hit another person.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q3": {
+    "Description": "If somebody hits me, I hit back.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q4": {
+    "Description": "I get into fights a little more than the average person.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q5": {
+    "Description": "If I have to resort to violence to protect my right, I will.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q6": {
+    "Description": "There are people who have pushed me so far that we came to blows.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q7": {
+    "Description": "I can think of no good reason for ever hitting a person.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q8": {
+    "Description": "I have threatened people I know.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q9": {
+    "Description": "I have become so mad that I have broken things.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q10": {
+    "Description": "I tell my openly when I disagree with them.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q11": {
+    "Description": "I often find myself disagreeing with other people.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q12": {
+    "Description": "When people annoy me, I may tell them what I think of them.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q13": {
+    "Description": "I can't help getting into arguments when people disagree with me.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q14": {
+    "Description": "My friends say that I'm somewhat argumentative.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q15": {
+    "Description": "I flare up quickly but get over it quickly.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q16": {
+    "Description": "When frustrated, I let my irritation show.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q17": {
+    "Description": "I sometimes feel like a powder keg ready to explode.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q18": {
+    "Description": "I am an even tempered person.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q19": {
+    "Description": "Some of my friends think I am a hothead.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q20": {
+    "Description": "Sometimes I fly off the handle for no good reason.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q21": {
+    "Description": "I have trouble controlling my temper.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q22": {
+    "Description": "I am sometimes eaten up with jealousy.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q23": {
+    "Description": "At times I feel I have gotten a raw deal out of life.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q24": {
+    "Description": "Other people always seem to get the breaks.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q25": {
+    "Description": "I wonder why sometimes I feel so bitter about things.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q26": {
+    "Description": "I know that 'friends' talk about me behind my back.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q27": {
+    "Description": "I am suspicious of overly friendly strangers.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q28": {
+    "Description": "I sometimes feel that people are laughing at me behind my back.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  },
+  "bpaq_q29": {
+    "Description": "When people are especially nice, I wonder what they want.",
+    "Levels": {
+      "1": "Extremely Uncharacteristic of me",
+      "2": "Uncharacteristic of me",
+      "3": "Neither characteristic nor Uncharacteristic of me",
+      "4": "Characteristic of me",
+      "5": "Extremely Characteristic of me"
+    }
+  }
+}

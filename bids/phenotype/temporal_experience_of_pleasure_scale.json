@@ -1,0 +1,204 @@
+{
+  "TEPSMetadata": {
+    "Description": "Temporal Experience of Pleasure Scale (TEPS)",
+    "TermURL": "https://doi.org/10.1016/j.jrp.2005.11.001"
+  },
+  "score_teps_q1": {
+    "Description": "1. If I were to hear about a new movie coming out starring my favorite actor, I would get very excited to see it.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q2": {
+    "Description": "2. I have enjoyed experiences like taking deep breaths of fresh air when I walk outside.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q3": {
+    "Description": "3. The smell of freshly cut grass (or the outdoors) has been enjoyable to me.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q4": {
+    "Description": "4. I have been looking forward to a lot of things.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q5": {
+    "Description": "5. I have enjoyed the touch of others.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q6": {
+    "Description": "6. I have noticed that looking forward to a pleasurable experience is in itself pleasurable.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q7": {
+    "Description": "7. I have found a hot cup of coffee or tea very satisfying.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q8": {
+    "Description": "8. I have noticed that when I think of something tasty, like a chocolate chip cookie, I have to have one.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q9": {
+    "Description": "9. I have appreciated the beauty of the outdoors.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q10": {
+    "Description": "10. I've noticed that I get so excited before important days or events that I can hardly sleep.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q11": {
+    "Description": "11. When I'm about to do something fun, I can hardly wait.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q12": {
+    "Description": "12. I've noticed that I really enjoy the feeling of a good yawn.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q13": {
+    "Description": "13. I've noticed that I don't look forward to things like eating out at restaurants.",
+    "Levels": {
+      "6": "very false for me",
+      "5": "moderately false for me",
+      "4": "slightly false for me",
+      "3": "slightly true for me",
+      "2": "moderately true for me",
+      "1": "very true for me"
+    }
+  },
+  "score_teps_q14": {
+    "Description": "14. I've noticed that I love the sound of rain on the windows (or other outdoor sounds) when I'm lying in my warm bed.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q15": {
+    "Description": "15. When I think about eating my favorite food, I can almost taste how good it is.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q16": {
+    "Description": "16. When I'm ordering something off the menu, I imagine how good it will taste.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q17": {
+    "Description": "17. I've noticed that things like the sound of crackling wood in the fireplace can be very relaxing.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  },
+  "score_teps_q18": {
+    "Description": "18. When something exciting is coming up in my life, I really look forward to it.",
+    "Levels": {
+      "1": "very false for me",
+      "2": "moderately false for me",
+      "3": "slightly false for me",
+      "4": "slightly true for me",
+      "5": "moderately true for me",
+      "6": "very true for me"
+    }
+  }
+}

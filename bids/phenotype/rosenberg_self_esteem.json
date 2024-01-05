@@ -1,0 +1,96 @@
+{
+  "RSEMetadata": {
+    "Description": "Rosenberg Self Esteem (RSE)",
+    "TermURL": "https://doi.org/10.1037/t01038-000"
+  },
+  "rse_1": {
+    "Description": "On the whole, I am satisfied with myself.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_2": {
+    "Description": "At times I think I am no good at all.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_3": {
+    "Description": "I feel that I have a number of good qualities.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_4": {
+    "Description": "I am able to things as well as most other people.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_5": {
+    "Description": "I feel I do not have much to be proud of.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_6": {
+    "Description": "I certainly feel useless at times.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_7": {
+    "Description": "I feel that I'm a person of worth, at least on an equal plane with others.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_8": {
+    "Description": "I wish I could have more respect for myself.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_9": {
+    "Description": "All in all, I am inclined to feel that I am a failure.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  },
+  "rse_10": {
+    "Description": "I take a positive attitude toward myself.",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly Disagree"
+    }
+  }
+}
