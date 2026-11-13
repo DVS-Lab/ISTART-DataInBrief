@@ -1,6 +1,10 @@
 # ISTART Data
 This repository contains the final code for managing and processing all of the data in our ISTART project. The data live on OpenNeuro (https://openneuro.org/datasets/ds004920), and a preprint of a data paper has been posted to PsyArxiv (https://osf.io/preprints/psyarxiv/vqpnx) and is under consideration at Data in Brief.
 
+## Task scan and event availability
+
+The public snapshots contain 415 task BOLD runs across 59 participants. Twenty-four runs have event TSVs with zero event rows, and some nonempty tables are partial or malformed. The [run availability notes](docs/ds004920-run-availability.md) give the counts by task, list the affected runs, and link to verified timing and other original logs.
+
 ## A few prerequisites and recommendations
 - Understand BIDS and be comfortable navigating Linux
 - Install [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation)
