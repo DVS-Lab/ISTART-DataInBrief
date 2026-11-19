@@ -1,9 +1,9 @@
 # ISTART Data
-This repository contains the final code for managing and processing all of the data in our ISTART project. The data live on OpenNeuro (https://openneuro.org/datasets/ds004920), and a preprint of a data paper has been posted to PsyArxiv (https://osf.io/preprints/psyarxiv/vqpnx) and is under consideration at Data in Brief.
+This repository contains the final code for managing and processing all of the data in our ISTART project. The data live on OpenNeuro (https://openneuro.org/datasets/ds004920), and the study is described in the [published Data in Brief paper](https://doi.org/10.1016/j.dib.2024.110197).
 
 ## Task scan and event availability
 
-The public snapshots contain 415 task BOLD runs across 59 participants. Twenty-four runs have event TSVs with zero event rows, and some nonempty tables are partial or malformed. The [run availability notes](docs/ds004920-run-availability.md) give the counts by task, list the affected runs, and link to verified timing and other original logs.
+[OpenNeuro 1.1.2](https://doi.org/10.18112/openneuro.ds004920.v1.1.2) contains 415 task BOLD runs across 59 participants. Fourteen runs have event TSVs with zero event rows, down from 24 in 1.1.0 and 1.1.1. The [run availability notes](docs/ds004920-run-availability.md) give the counts by task, list the affected runs, and link to the original scan-session files for the ten restored Doors and Social Doors tables and the repaired Social Doors record for sub-1282.
 
 ## A few prerequisites and recommendations
 - Understand BIDS and be comfortable navigating Linux
